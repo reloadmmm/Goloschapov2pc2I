@@ -1,0 +1,17 @@
+C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\bin\Debug\net8.0-windows\calculateFROMMDKCo.exe
+C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\bin\Debug\net8.0-windows\calculateFROMMDKCo.deps.json
+C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\bin\Debug\net8.0-windows\calculateFROMMDKCo.runtimeconfig.json
+C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\bin\Debug\net8.0-windows\calculateFROMMDKCo.dll
+C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\bin\Debug\net8.0-windows\calculateFROMMDKCo.pdb
+C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.Form2.resources
+C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.csproj.GenerateResource.cache
+C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.GeneratedMSBuildEditorConfig.editorconfig
+C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.AssemblyInfoInputs.cache
+C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.AssemblyInfo.cs
+C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.csproj.CoreCompileInputs.cache
+C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.dll
+C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\refint\calculateFROMMDKCo.dll
+C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.pdb
+C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.genruntimeconfig.cache
+C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\ref\calculateFROMMDKCo.dll
+C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.calculateZXC.resources
