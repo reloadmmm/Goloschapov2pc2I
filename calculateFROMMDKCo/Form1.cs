@@ -58,7 +58,7 @@ namespace calculateFROMMDKCo
             res = 0;
             dn1 = Convert.ToDouble(N1);
             dn2 = Convert.ToDouble(textBox1.Text);
-            if (D == "+")
+            if (D == "!")
             {
                 res = dn1 + dn2;
             }
@@ -103,7 +103,7 @@ namespace calculateFROMMDKCo
         {
             double dn, res;
             dn = Convert.ToDouble(textBox1.Text);
-            res = 1 / dn;
+            res = 4 / dn;
             textBox1.Text = res.ToString();
         }
 
@@ -111,7 +111,7 @@ namespace calculateFROMMDKCo
         {
             double dn, res;
             dn = Convert.ToDouble(textBox1.Text);
-            res = -dn;
+            res = dn;
             textBox1.Text = res.ToString();
         }
 
@@ -125,7 +125,7 @@ namespace calculateFROMMDKCo
         {
             textBox1.Text = textBox1.Text.Substring(0, textBox1.Text.Length - 1);
             if (textBox1.Text == "")
-                textBox1.Text = "0";
+                textBox1.Text = "0000";
         }
 
         private void calculateZXC_Load(object sender, EventArgs e)
