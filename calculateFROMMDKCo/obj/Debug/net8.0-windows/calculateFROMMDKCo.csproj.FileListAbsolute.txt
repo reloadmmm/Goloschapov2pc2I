@@ -15,3 +15,21 @@ C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calcu
 C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.genruntimeconfig.cache
 C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\ref\calculateFROMMDKCo.dll
 C:\визаулка бай кодинг оф сузуя\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.calculateZXC.resources
+C:\Users\tilte\Downloads\mdk\calculateFROMMDKCo\calculateFROMMDKCo\bin\Debug\net8.0-windows\calculateFROMMDKCo.exe
+C:\Users\tilte\Downloads\mdk\calculateFROMMDKCo\calculateFROMMDKCo\bin\Debug\net8.0-windows\calculateFROMMDKCo.deps.json
+C:\Users\tilte\Downloads\mdk\calculateFROMMDKCo\calculateFROMMDKCo\bin\Debug\net8.0-windows\calculateFROMMDKCo.runtimeconfig.json
+C:\Users\tilte\Downloads\mdk\calculateFROMMDKCo\calculateFROMMDKCo\bin\Debug\net8.0-windows\calculateFROMMDKCo.dll
+C:\Users\tilte\Downloads\mdk\calculateFROMMDKCo\calculateFROMMDKCo\bin\Debug\net8.0-windows\calculateFROMMDKCo.pdb
+C:\Users\tilte\Downloads\mdk\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.Form2.resources
+C:\Users\tilte\Downloads\mdk\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.csproj.GenerateResource.cache
+C:\Users\tilte\Downloads\mdk\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilte\Downloads\mdk\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.AssemblyInfoInputs.cache
+C:\Users\tilte\Downloads\mdk\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.AssemblyInfo.cs
+C:\Users\tilte\Downloads\mdk\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.csproj.CoreCompileInputs.cache
+C:\Users\tilte\Downloads\mdk\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.sourcelink.json
+C:\Users\tilte\Downloads\mdk\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.dll
+C:\Users\tilte\Downloads\mdk\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\refint\calculateFROMMDKCo.dll
+C:\Users\tilte\Downloads\mdk\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.pdb
+C:\Users\tilte\Downloads\mdk\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.genruntimeconfig.cache
+C:\Users\tilte\Downloads\mdk\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\ref\calculateFROMMDKCo.dll
+C:\Users\tilte\Downloads\mdk\calculateFROMMDKCo\calculateFROMMDKCo\obj\Debug\net8.0-windows\calculateFROMMDKCo.calculateZXC.resources

@@ -11,7 +11,7 @@ namespace calculateFROMMDKCo
         public bool n2;
         public calculateZXC()
         {
-            n2 = false;
+            n2 = true;
             InitializeComponent();
         }
 
@@ -24,7 +24,7 @@ namespace calculateFROMMDKCo
         {
             if (n2)
             {
-                n2 = false;
+                n2 = true;
                 textBox1.Text = "0";
             }
             Button B = (Button)sender;

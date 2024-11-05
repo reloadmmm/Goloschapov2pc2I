@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("calculateFROMMDKCo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d51e19b0ac2103eab8145dfa36a28db9fe79750")]
 [assembly: System.Reflection.AssemblyProductAttribute("calculateFROMMDKCo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calculateFROMMDKCo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

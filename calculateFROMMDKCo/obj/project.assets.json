@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\визаулка бай кодинг оф сузуя\\calculateFROMMDKCo\\calculateFROMMDKCo\\calculateFROMMDKCo.csproj",
+      "projectUniqueName": "C:\\Users\\tilte\\Downloads\\mdk\\calculateFROMMDKCo\\calculateFROMMDKCo\\calculateFROMMDKCo.csproj",
       "projectName": "calculateFROMMDKCo",
-      "projectPath": "C:\\визаулка бай кодинг оф сузуя\\calculateFROMMDKCo\\calculateFROMMDKCo\\calculateFROMMDKCo.csproj",
+      "projectPath": "C:\\Users\\tilte\\Downloads\\mdk\\calculateFROMMDKCo\\calculateFROMMDKCo\\calculateFROMMDKCo.csproj",
       "packagesPath": "C:\\Users\\tilte\\.nuget\\packages\\",
-      "outputPath": "C:\\визаулка бай кодинг оф сузуя\\calculateFROMMDKCo\\calculateFROMMDKCo\\obj\\",
+      "outputPath": "C:\\Users\\tilte\\Downloads\\mdk\\calculateFROMMDKCo\\calculateFROMMDKCo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tilte\\AppData\\Roaming\\NuGet\\NuGet.Config"
